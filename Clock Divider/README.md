@@ -1,4 +1,4 @@
-#Clock Divider
+# Clock Divider
 
 Based on a [schematic by Niklas Ronnberg](http://familjenronnberg.se/~niklas/diy/eurorack/divider/) (included here for reference) which in turn was based on a prior design by Matthias Herrmann for his Fonitrokik synth.
 
