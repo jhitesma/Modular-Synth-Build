@@ -1,0 +1,41 @@
+# 808_Kick.sch BOM
+
+10/14/2020 9:30:12 AM
+
+Generated from schematic by Eeschema (5.1.7)-1
+
+**Component Count:** 50
+
+| Value | Qty | Part | Description | Vendor |
+| ----- | --- | ---- | ----------- | ------ |
+| C1, C3, C7, C9 | 4 | 100n | Unpolarized capacitor, small symbol |  |
+| C2, C5, C6 | 3 | 15n | Unpolarized capacitor, small symbol |  |
+| C4 | 1 | 33n | Unpolarized capacitor, small symbol |  |
+| C8 | 1 | 470n | Unpolarized capacitor, small symbol |  |
+| C10 | 1 | 33u | Polarized capacitor, small US symbol |  |
+| D1, D2, D3 | 3 | D | Diode |  |
+| Decay1 | 1 | 500K | Potentiometer |  |
+| J1 | 1 | Trigger | Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/) |  |
+| J2 | 1 | Output | Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/) |  |
+| J3 | 1 | Eurorack Power | Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/) |  |
+| Level1 | 1 | 10K | Potentiometer |  |
+| Pitch1 | 1 | 100K | Potentiometer |  |
+| Q1, Q3, Q4, Q5 | 4 | 2N3904 | 0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92 |  |
+| Q2 | 1 | 2N3906 | -0.2A Ic, -40V Vce, Small Signal PNP Transistor, TO-92 |  |
+| R1, R7, R12 | 3 | 100K | Resistor, small US symbol |  |
+| R2, R11 | 2 | 22K | Resistor, small US symbol |  |
+| R3, R4, R5, R21 | 4 | 10K | Resistor, small US symbol |  |
+| R6 | 1 | 8.2K | Resistor, small US symbol |  |
+| R8 | 1 | 2.7K | Resistor, small US symbol |  |
+| R9 | 1 | 4.7K | Resistor, small US symbol |  |
+| R10, R14, R15 | 3 | 1M | Resistor, small US symbol |  |
+| R13 | 1 | 6.8K | Resistor, small US symbol |  |
+| R16 | 1 | 330K | Resistor, small US symbol |  |
+| R17, R19 | 2 | 47K | Resistor, small US symbol |  |
+| R18 | 1 | 470K | Resistor, small US symbol |  |
+| R20, R23 | 2 | 680R | Resistor, small US symbol |  |
+| R22 | 1 | 20K | Resistor, small US symbol |  |
+| SW1 | 1 | Clipper | Single Pole Single Throw (SPST) switch |  |
+| Tone1 | 1 | 5K | Potentiometer |  |
+| U1 | 1 | TL074 | Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14 |  |
+    
