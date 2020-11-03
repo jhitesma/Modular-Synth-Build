@@ -69,7 +69,7 @@ U 1 1 5FA08836
 P 4900 4050
 F 0 "Q2" H 5091 4096 50  0000 L CNN
 F 1 "Q_NPN_BCE" H 5091 4005 50  0000 L CNN
-F 2 "Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical" H 5100 4150 50  0001 C CNN
+F 2 "Package_TO_SOT_THT:TO-92L_Inline_Wide" H 5100 4150 50  0001 C CNN
 F 3 "~" H 4900 4050 50  0001 C CNN
 	1    4900 4050
 	1    0    0    -1  
@@ -80,7 +80,7 @@ U 1 1 5FA09F0F
 P 4200 4050
 F 0 "Q1" H 4391 4096 50  0000 L CNN
 F 1 "Q_NPN_BCE" H 4391 4005 50  0000 L CNN
-F 2 "Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical" H 4400 4150 50  0001 C CNN
+F 2 "Package_TO_SOT_THT:TO-92L_Inline_Wide" H 4400 4150 50  0001 C CNN
 F 3 "~" H 4200 4050 50  0001 C CNN
 	1    4200 4050
 	-1   0    0    -1  
@@ -143,7 +143,7 @@ U 1 1 5FA0C8F8
 P 4550 4700
 F 0 "TP1" H 4550 4895 50  0000 C CNN
 F 1 "TestPoint_2Pole" H 4550 4804 50  0000 C CNN
-F 2 "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical" H 4550 4700 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 4550 4700 50  0001 C CNN
 F 3 "~" H 4550 4700 50  0001 C CNN
 	1    4550 4700
 	1    0    0    -1  
@@ -236,7 +236,7 @@ U 1 1 5FA11677
 P 7850 4600
 F 0 "TP2" H 7850 4795 50  0000 C CNN
 F 1 "TestPoint_2Pole" H 7850 4704 50  0000 C CNN
-F 2 "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical" H 7850 4600 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 7850 4600 50  0001 C CNN
 F 3 "~" H 7850 4600 50  0001 C CNN
 	1    7850 4600
 	1    0    0    -1  
@@ -306,7 +306,7 @@ U 1 1 5FA154C6
 P 8300 3900
 F 0 "Q4" H 8490 3946 50  0000 L CNN
 F 1 "Q_PNP_BCE" H 8490 3855 50  0000 L CNN
-F 2 "Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical" H 8500 4000 50  0001 C CNN
+F 2 "Package_TO_SOT_THT:TO-92L_Inline_Wide" H 8500 4000 50  0001 C CNN
 F 3 "~" H 8300 3900 50  0001 C CNN
 	1    8300 3900
 	1    0    0    -1  
@@ -317,7 +317,7 @@ U 1 1 5FA161AC
 P 7350 3900
 F 0 "Q3" H 7541 3946 50  0000 L CNN
 F 1 "Q_PNP_BCE" H 7541 3855 50  0000 L CNN
-F 2 "Connector_PinHeader_1.00mm:PinHeader_1x03_P1.00mm_Vertical" H 7550 4000 50  0001 C CNN
+F 2 "Package_TO_SOT_THT:TO-92L_Inline_Wide" H 7550 4000 50  0001 C CNN
 F 3 "~" H 7350 3900 50  0001 C CNN
 	1    7350 3900
 	-1   0    0    -1  
